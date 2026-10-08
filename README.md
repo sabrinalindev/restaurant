@@ -1,7 +1,7 @@
-# Food recall look up app
+# Food recall lookup app
 
 A simple front-end app that displays data from an FDA api to help restaurant staff and managers. 
-This app offers user to look up recent recall food according to the location user enters.
+This app allows users look up recent food recalls according to the location the user enters.
 
 - Screenshots:
 
@@ -27,13 +27,13 @@ The app uses JavaScript's `fetch()` to request data from FDA api and displays th
 
 ## How to Use
 
-1. Step 1: e.g. Enter city you want to look up
-2. Step 2: e.g. Click the Search button
-3. Step 3: e.g. View the results displayed on the page
+1. Step 1:  Enter the city you want to look up
+2. Step 2:  Click the Search button
+3. Step 3:  View the results displayed on the page
 
 ## Features
 
-- Fetches live data from FDA api
+- Fetches live data from the FDA api
 - No installation or dependencies needed
 
 ## Why This Stack
@@ -44,4 +44,4 @@ The app uses JavaScript's `fetch()` to request data from FDA api and displays th
 
 ## Future Improvements
 
-- Display recent multiple data results
+- Display multiple recent data results
