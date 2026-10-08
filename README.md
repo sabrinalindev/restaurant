@@ -27,9 +27,9 @@ The app uses JavaScript's `fetch()` to request data from FDA api and displays th
 
 ## How to Use
 
-1. [Step 1: e.g. Enter city you want to look up]
-2. [Step 2: e.g. Click the Search button]
-3. [Step 3: e.g. View the results displayed on the page]
+1. Step 1: e.g. Enter city you want to look up
+2. Step 2: e.g. Click the Search button
+3. Step 3: e.g. View the results displayed on the page
 
 ## Features
 
@@ -40,7 +40,7 @@ The app uses JavaScript's `fetch()` to request data from FDA api and displays th
 
 - **JavaScript (`fetch`)**: Handles the API request and renders the data dynamically without a page reload.
 - **HTML/CSS**: Simple, fast to load, and perfect for a lightweight front-end app.
-- **[API name]**: [Why you chose it, e.g. "Free, easy to use, and provides data useful for restaurant work."]
+- **FDA api**: Free, easy to use, and provides data useful for food recall.
 
 ## Future Improvements
 
